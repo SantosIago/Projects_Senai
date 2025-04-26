@@ -11,12 +11,6 @@ O objetivo deste repositório é compartilhar e documentar os exercícios, prát
 
 ---
 
-## 🛠️ Plataformas Utilizadas
-
-|              |              |
-|--------------|--------------|
-| [![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/) | [![PyCharm](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg)](https://www.jetbrains.com/pycharm/) |
-
 ---
 
 ## 📚 Conteúdo Aprendido
@@ -33,12 +27,8 @@ O objetivo deste repositório é compartilhar e documentar os exercícios, prát
 
 ## 📁 Organização dos Projetos
 
-Cada projeto está em sua própria pasta, com nome correspondente ao tema ou exercício abordado.
+Cada arquivo contém um tipo de aula que aprendi no decorrer dos meus estudos.
 
 ---
-
-## ✨ Observação
-
-Este repositório será atualizado conforme novos projetos forem sendo desenvolvidos durante o curso!
-
----
+More projects?
+👨‍💼[SantosIago](https://github.com/SantosIago)
